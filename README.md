@@ -89,10 +89,10 @@ Always looking to build impactful tech solutions!
 *Built a calculator to help 3PL companies estimate logistics cost accurately using shipment parameters like distance, zones, weight, and delivery type.*
 
 **Key Features:**
-🚚 Multi-parameter cost estimation model
-📊 Dynamic cost breakdown for weight, distance, zone, and delivery type
-📈 Excel integration for input/output and visualization
-⚡ Real-time updates with interactive UI using Streamlit
+- 🚚 Multi-parameter cost estimation model
+- 📊 Dynamic cost breakdown for weight, distance, zone, and delivery type
+- 📈 Excel integration for input/output and visualization
+- ⚡ Real-time updates with interactive UI using Streamlit
 
 
 ---
@@ -107,11 +107,11 @@ Always looking to build impactful tech solutions!
 *Built an intelligent and interactive system to forecast Delhi's electricity demand using weather data, geolocation, and machine learning models.*
 
 **Key Features:**
-🌐 Interactive location-based selection using map
-🌡️ Real-time weather data integration (via OpenWeatherMap)
-📊 Load data input through dynamic and editable tables
-🧠 Forecasting electricity demand using machine learning
-⚡ Optimized frontend for smooth user experience
+- 🌐 Interactive location-based selection using map
+- 🌡️ Real-time weather data integration (via OpenWeatherMap)
+- 📊 Load data input through dynamic and editable tables
+- 🧠 Forecasting electricity demand using machine learning
+- ⚡ Optimized frontend for smooth user experience
 
 ---
 
