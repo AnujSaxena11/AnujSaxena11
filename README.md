@@ -61,7 +61,7 @@ Always looking to build impactful tech solutions!
 
 <div align="center">
   
-### 🎨 [Fusion Threads](https://github.com/ompandey21/Fusion-Threads)
+### 🎨 [Fusion Threads]
 **AI-Powered Fashion Recommendation & 3D Visualization Platform**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -79,7 +79,7 @@ Always looking to build impactful tech solutions!
 
 ---
 
-### 🛡️ [Logistics Cost Calculator]
+### 🛡️ [Logistics Cost Calculator](https://github.com/AnujSaxena11/Logistic_cost_calculator)
 **Smart Solution for 3PL Shipping Cost Estimation**
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -97,7 +97,7 @@ Always looking to build impactful tech solutions!
 
 ---
 
-### 💧 [Delhi Electricity Demand Dashboard](https://github.com/ompandey21/Water-Dashboard)
+### 💧 [Delhi Electricity Demand Dashboard](https://github.com/AnujSaxena11/Electricity-Demand)
 **Smart Electricity Demand Forecasting System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -115,7 +115,7 @@ Always looking to build impactful tech solutions!
 
 ---
 
-### 🤖 [SAGE – Smart Advanced Gesture-Controlled Environment](https://github.com/ompandey21/SAGE)
+### 🤖 [SAGE – Smart Advanced Gesture-Controlled Environment]
 **Futuristic Touchless Control System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -134,7 +134,7 @@ Always looking to build impactful tech solutions!
 
 ---
 
-### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator](https://github.com/ompandey21/ArchiTech)
+### 🏗️ [ArchiTech – AI-Powered Floor Plan Generator]
 **Generative AI-Based Architectural Design Platform | 🏆 National Hackathon Winner**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
