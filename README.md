@@ -2,14 +2,14 @@
 
 ## 🎓 About Me
 
-I'm a B.Tech CSE student specializing in AI, ML, and IoT  
-Passionate about Machine Learning and  AI. I love working on projects that integrate computer vision, generative AI, and IoT solutions to solve real-world challenges.  
-Always looking to build impactful tech solutions!  
+I'm a **B.Tech CSE student** specializing in **AI, ML, and IoT**, with a strong focus on **MERN Stack backend development**.
 
-- 🔭 Currently working on **AI-powered fashion recommendations** and **3D visualization projects**
-- 🌱 Learning **Advanced Deep Learning**, **Computer Vision**, and **Cloud Computing**
-- 👯 Looking to collaborate on **Open Source AI/ML projects**
-- 💬 Ask me about **Python, Machine Learning, and Data Science**
+I enjoy building **scalable backend systems**, designing **RESTful APIs**, working with **databases**, and implementing **authentication & role-based access control**. I also have hands-on experience applying **AI/ML concepts** in real-world projects.
+
+🔭 Currently building backend-heavy MERN applications and production-ready systems  
+🌱 Learning advanced backend architecture, system design, and cloud deployment  
+🧠 Background in AI/ML, Computer Vision & data-driven applications  
+👯 Open to collaborating on backend, MERN, and AI-integrated projects  
 
 ---
 
@@ -17,11 +17,27 @@ Always looking to build impactful tech solutions!
 
 ### **Programming Languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### **Backend**
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/> 
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge" alt="JWT"/>
+</p>
+
+###**Frontend**
+Frontend (Supporting)
+<p align="left"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
 </p>
 
 ### **AI/ML & Data Science**
@@ -34,12 +50,14 @@ Always looking to build impactful tech solutions!
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
 </p>
 
+
+
 ### **Tools & Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
@@ -79,20 +97,26 @@ Always looking to build impactful tech solutions!
 
 ---
 
-### 🛡️ [Logistics Cost Calculator](https://github.com/AnujSaxena11/Logistic_cost_calculator)
-**Smart Solution for 3PL Shipping Cost Estimation**
+### 🛠️ [Complaint Management System](https://github.com/AnujSaxena11/Complaint-Management-System)
+**Role-Based Complaint Tracking & Resolution Platform**
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-FF6B6B?style=flat-square" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/Cost_Optimization-00BFFF?style=flat-square&logoColor=white" alt="Cost Optimization"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-*Built a calculator to help 3PL companies estimate logistics cost accurately using shipment parameters like distance, zones, weight, and delivery type.*
+*Developed a full-stack complaint management platform that digitizes the entire complaint lifecycle, enabling users to register complaints, track real-time status, and communicate with agents through a secure role-based system.*
 
 **Key Features:**
-- 🚚 Multi-parameter cost estimation model
-- 📊 Dynamic cost breakdown for weight, distance, zone, and delivery type
-- 📈 Excel integration for input/output and visualization
-- ⚡ Real-time updates with interactive UI using Streamlit
+- 🎫 Complaint registration with unique ticket generation
+- 👥 Role-based access control (User, Agent, Admin)
+- 🔄 Real-time complaint status tracking
+- 💬 Agent–user messaging system
+- 📧 Automated email notifications on status updates
+- 📊 Admin dashboard for managing users, agents, and complaints
+- 🔐 Secure authentication using JWT
+
 
 
 ---
